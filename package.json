@@ -1,6 +1,6 @@
 {
   "name": "bigmoney-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BigMoney package for Node",
   "main": "lib/BigMoney.js",
   "scripts": {
